@@ -25,11 +25,18 @@ Aquí en GitHub compartiré mis proyectos y estudios mientras sigo desarrollando
 ### Skills
 
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo_2013.svg" width="36" height="36" alt="Excel" /></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Power_BI_Logo.png" width="36" height="36" alt="Power BI" /></a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Tableau_Logo.svg" width="36" height="36" alt="Tableau" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_PowerPoint_%282013%E2%80%93present%29_logo.svg" width="36" height="36" alt="PowerPoint" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/452/sql.png" width="36" height="36" alt="SQL" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/452/microsoft-excel-2019.png" width="36" height="36" alt="Excel" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/452/power-bi.png" width="36" height="36" alt="Power BI" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios/452/tableau-software.png" width="36" height="36" alt="Tableau" />
+  </a>
 </p>
 
 
