@@ -26,16 +26,16 @@ Aquí en GitHub compartiré mis proyectos y estudios mientras sigo desarrollando
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/452/sql.png" width="36" height="36" alt="SQL" />
+    <img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/452/microsoft-excel-2019.png" width="36" height="36" alt="Excel" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="36" height="36" alt="Excel" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/452/power-bi.png" width="36" height="36" alt="Power BI" />
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" height="36" alt="Power BI" />
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/452/tableau-software.png" width="36" height="36" alt="Tableau" />
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="36" height="36" alt="Tableau" />
   </a>
 </p>
 
