@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/lautaro-gabriel-falco/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Linkedin-007BFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="@unsimpledev" />
   </a>
-
 </p>
 
 <br>
@@ -37,9 +36,7 @@ Aquí en GitHub compartiré mis proyectos y estudios mientras sigo desarrollando
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="36" height="36" alt="Tableau" />
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="36" height="36" alt="Python" />
+  </a>
 </p>
-
-
-
-  </tr>
-</table>
