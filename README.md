@@ -15,7 +15,7 @@
 <p align="left">
 ¡Hola! 👋 Soy Lautaro Falco, un estudiante apasionado por la ciencia de datos, actualmente cursando la Diplomatura en Data Science en Coderhouse. Mi objetivo es aprovechar el poder de los datos para resolver problemas reales y generar valor a través de análisis y visualización de datos.
 
-Estoy aprendiendo herramientas clave como SQL, Tableau y Power BI, con el objetivo de crear soluciones eficientes que ayuden a las empresas a tomar decisiones informadas. Mi enfoque está en realizar proyectos que combinen análisis estadístico y visualización avanzada.
+Estoy aprendiendo herramientas clave como SQL, Tableau, Power BI y Python, con el objetivo de crear soluciones eficientes que ayuden a las empresas a tomar decisiones informadas. Mi enfoque está en realizar proyectos que combinen análisis estadístico y visualización avanzada.
 
 En mi tiempo libre, disfruto de experimentar con nuevos datasets y mejorar mis habilidades en análisis de datos. Mi objetivo es seguir aprendiendo y crecer como profesional en el campo de la Data Science.
 
