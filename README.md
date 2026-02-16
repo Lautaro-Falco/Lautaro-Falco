@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="donnees-demographiques-analytics.jpg" alt="Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Lautaro-Falco/Lautaro-Falco/main/Imagen%20personal.png" alt="Banner" width="100%">
 
 <h1 align="center">Hola 👋, soy Lautaro Falco / @Lautaro-Falco ✨</h1>
 
